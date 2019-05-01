@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: yfjeffliu/hello
+From: yfjeffliu/hello:sfm
